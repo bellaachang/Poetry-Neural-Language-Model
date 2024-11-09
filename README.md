@@ -11,3 +11,5 @@ All details of this project can be found in the .ipynb file; however, here are t
 5) Model evaluation
 
 Details of what methods I tried can also be found in the notebook. 
+
+![image](https://github.com/user-attachments/assets/8a71ac99-1c47-44cb-96b9-8ce9bc3390ea)
